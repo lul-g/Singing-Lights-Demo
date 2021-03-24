@@ -1,0 +1,183 @@
+/* CSS files add styling rules to your content */
+body {
+  font-family: helvetica, arial, sans-serif;
+  color: #00203fff;
+  background-image: url("https://cdn.glitch.com/9129ceae-eb17-46e3-bc25-e775df6de83c%2Fa.jfif?v=1616583944796");
+  background-size: cover;
+  overflow: hidden;
+}
+p {
+  font-family: "Hi Melody", cursive;
+}
+h1 {
+  font-family: "Lobster", cursive;
+}
+
+button {
+  padding: 20px;
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+  outline: none;
+  transition: 0.8s;
+}
+button:first-child:hover {
+  background-color: white;
+  color: black;
+  transition: 0.8s;
+  border-radius: 25px;
+  z-index: -1;
+}
+#time {
+  font-weight:900;
+  float:right;
+  margin-top: 12%;
+}
+
+#gameButtonArea > button {
+  width: 190px;
+  height: 170px;
+  margin-left: 10px;
+  padding: 10px;
+  position: relative;
+  bottom: 200px;
+}
+.musicPics {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+  border-radius: 10px;
+}
+.hide {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: lightgreen;
+}
+#button2 {
+  background: lightblue;
+}
+#button3 {
+  background: pink;
+}
+#button4 {
+  background: lightyellow;
+}
+#button5 {
+  background: tomato;
+}
+
+#button6 {
+  background: #000033;
+}
+
+#button1:hover {
+  border-radius: 70px;
+  transition: 0.4s;
+}
+#button2:hover {
+  border-radius: 70px;
+  transition: 0.4s;
+}
+#button3:hover {
+  border-radius: 70px;
+  transition: 0.4s;
+}
+#button4:hover {
+  border-radius: 70px;
+  transition: 0.4s;
+}
+#button5:hover {
+  border-radius: 70px;
+  transition: 0.4s;
+}
+#button6:hover {
+  border-radius: 70px;
+  transition: 0.4s;
+}
+
+#button1:active,
+#button1.lit {
+  background-image: url("https://cdn.glitch.com/9129ceae-eb17-46e3-bc25-e775df6de83c%2Frokk.jfif?v=1616559473478");
+}
+
+#button2:active,
+#button2.lit {
+  background-image: url("https://cdn.glitch.com/9129ceae-eb17-46e3-bc25-e775df6de83c%2FclassicalMusic.jfif?v=1615995905296");
+}
+
+#button3:active,
+#button3.lit {
+  background-image: url("https://cdn.glitch.com/9129ceae-eb17-46e3-bc25-e775df6de83c%2FsoulMusic.jfif?v=1615995905432");
+}
+
+#button4:active,
+#button4.lit {
+  background-image: url("https://cdn.glitch.com/9129ceae-eb17-46e3-bc25-e775df6de83c%2Fsym.jfif?v=1616559679715");
+}
+
+#button5:active,
+#button5.lit {
+  background-image: url("https://cdn.glitch.com/9129ceae-eb17-46e3-bc25-e775df6de83c%2FjazzMusic.png?v=1615996025034");
+}
+
+#button6:active,
+#button6.lit {
+  background-image: url("https://cdn.glitch.com/9129ceae-eb17-46e3-bc25-e775df6de83c%2FelectronicMusic.png?v=1615996175720");
+}
+
+/* start - https://www.youtube.com/watch?v=CZTCciHE72I&t=1s*/
+.binary button {
+  width: 50px;
+  animation: binary 7s alternate infinite;
+}
+.binary {
+  position: absolute;
+  bottom: 100px;
+}
+@keyframes binary {
+  0% {
+    transform: translateY(0vh);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(35vh);
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-30vh);
+    opacity: 1;
+  }
+}
+.binary button:nth-child(1) {
+  animation-delay: 1s;
+}
+.binary button:nth-child(2) {
+  animation-delay: 1.6s;
+}
+.binary button:nth-child(3) {
+  animation-delay: 2.5s;
+}
+.binary button:nth-child(4) {
+  animation-delay: 3s;
+}
+.binary button:nth-child(5) {
+  animation-delay: 0.5s;
+}
+.binary button:nth-child(6) {
+  animation-delay: 3.5s;
+}
+
+/*End*/
+.parent {
+  display: flex;
+  min-height: 100vh;
+}
