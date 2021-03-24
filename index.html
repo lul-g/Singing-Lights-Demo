@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <title>Hello!</title>
+    
+    <link rel="stylesheet" href="/style.css">
+    
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    
+    <div class="parent">
+      <div class="child2"><h1>Singing-Pics-Demo</h1>
+        <p id="beforeStart">
+         Click the Button to start game
+        </p>
+        <p id="afterStart" class="hidden"> Repeat the pattern
+        </p>
+        
+        <div id="nav">
+          
+          <button id="startBtn" onclick="startGame()">Start</button>
+          <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
+        </div>
+        <p id="mistake" class="hidden">Mistake. You got <span id="chance">1</span> chances left</p>
+      </div>
+      <br>
+      <div class="child1">
+        <div id="gameButtonArea"> <br>
+          <button id="button1" onclick="guess(1);" onmousedown="startTone(1)" onmouseup="stopTone(1)"></button>       
+          <button id="button2" onclick="guess(2);" onmousedown="startTone(2)" onmouseup="stopTone(2)"></button>       
+          <button id="button3" onclick="guess(3);" onmousedown="startTone(3)" onmouseup="stopTone(3)"></button>
+          <button id="button4" onclick="guess(4);" onmousedown="startTone(4)" onmouseup="stopTone(4)"></button>
+          <button id="button5" onclick="guess(5);" onmousedown="startTone(5)" onmouseup="stopTone(5)"></button>
+          <button id="button6" onclick="guess(6);" onmousedown="startTone(6)" onmouseup="stopTone(6)"></button>
+        </div>
+        </div>
+    </div>
+  
+  </body>
+</html>
