@@ -50,11 +50,12 @@ Here's a walkthrough of implemented user stories:
    <b>[I used StackOverflow, https://tonnygaric.com/blog/create-a-seconds-countdown-in-6-lines-of-javascript, and https://www.youtube.com/watch?v=CZTCciHE72I&t=1s]</b>
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)<BR> 
-   <b>[I had trouble controlling the animation with the button "start". But then I read on StackOverflow that I can hide the buttons by adding the hidden class. Then when the button is clicked simply remove the class. I tried it and it worked.]</b>
+   <b>[I had trouble controlling the animation with the button "start". But then I read on StackOverflow that I can hide the buttons by adding the hidden class. Then when the button is clicked simply remove the class. I tried it and it worked. But this was not the annoying part. What got me frustrated was not being able to find background images. It is easier to find a solution to a problem am having on my website rather than a quality image that does not get distorted when applied as background.]</b>
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) <BR>
    <b>[1. What kind of projects should I get involved in to better my web development skill?<BR>
-       2. There are a lot of websites that can create a website like WordPress and BootStrap. Given that these types of sites make it easy to create a website, is it not a waste of time to invest myself in web development?]</b>
+       2. There are a lot of websites that can create a website like WordPress and BootStrap. Given that these types of sites make it easy to create a website, is it not a waste of time to invest myself in web development?<BR>
+       3. What resources do website designers use to apply cool images as buttons or backgrounds?]</b>
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)<BR>
    <b>[I would work on the timer and improve the clueHoldTime.]</b>
