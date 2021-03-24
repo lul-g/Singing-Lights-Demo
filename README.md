@@ -55,8 +55,8 @@ Here's a walkthrough of implemented user stories:
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) <BR>
    <b>[YOUR ANSWER HERE]</b>
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-   [YOUR ANSWER HERE]
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)<BR>
+   <b>[YOUR ANSWER HERE]</b>
 
 ## License
 
