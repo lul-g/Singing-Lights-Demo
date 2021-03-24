@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. <BR>
-   <b>[I did not use any outside sources because the code was given.]</b>
+   <b>[I used StackOverflow, //https://tonnygaric.com/blog/create-a-seconds-countdown-in-6-lines-of-javascript, and https://www.youtube.com/watch?v=CZTCciHE72I&t=1s]</b>
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) <BR>
    <b>[I had a hard time copy pasting everything]</b>
