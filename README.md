@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-(https://github.com/lul-star/Singing-Lights-Demo/blob/main/CodePathApp.gif)
+<img src="CodePathApp.gif">
 
 
 ## Reflection Questions
