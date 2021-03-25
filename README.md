@@ -4,7 +4,7 @@
 
 Submitted by: **Lulseged Admasu**
 
-Time spent: **>24** hours spent in total
+Time spent: **15** hours spent in total
 
 Link to project: (https://puzzle-jewel-eye.glitch.me/)
 
