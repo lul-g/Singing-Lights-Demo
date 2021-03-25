@@ -1,6 +1,6 @@
 # Pre-work - _Memory Game_
 
-**Loud-lights-Demo** is a Light & Sound Memory game to apply for CodePath's SITE Program.
+**Singing-Pics-Demo** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
 Submitted by: **Lulseged Admasu**
 
