@@ -1,4 +1,4 @@
-# Most of the code was provided by codepath. The animation, button effects, the audio, the images, the mistake counter, and the random pattern produced by the game was mine.
+# Some of the code was provided by codepath. The animation, button effects, the audio, the images, the mistake counter, and the random pattern produced by the game was mine.
 # Pre-work - _Memory Game_
 
 **Singing-Pics-Demo** is a Light & Sound Memory game to apply for CodePath's SITE Program.
